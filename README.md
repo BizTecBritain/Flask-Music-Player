@@ -14,7 +14,7 @@
   <h3 align="center">Flask Music Player</h3>
 
   <p align="center">
-    project_description
+    This is a simple music player made in python and Flask
     <br />
     <a href="https://github.com/BizTecBritain/Flask-Music-Player"><strong>Explore the docs »</strong></a>
     <br />
@@ -108,9 +108,18 @@ To get a local copy up and running follow these simple steps.
 
 ## Usage
 
-To use this code simply run
+First enter the directory with
 ```
 $ cd pySource
+```
+
+The first time the code is run or to reset the Users database run
+```
+$ python manage.py init-db
+```
+
+Then to use this code simply run
+```
 $ python manage.py runserver
 ```
 
