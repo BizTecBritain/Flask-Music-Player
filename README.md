@@ -81,6 +81,18 @@ To get a local copy up and running follow these simple steps.
    $ sudo apt-get install python
   ```
 
+* (Optional) Create virtual environment
+* #### Linux:
+  ```
+   $ python -m venv venv
+   $ . ./venv/bin/activate
+  ```
+* #### Windows:
+  ```
+   > python -m venv venv
+   > venv/Scripts/activate.bat
+  ```
+
 ### Installation
 
 1. Clone the repo
