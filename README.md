@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/BizTecBritain/Flask-Music-Player">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/BizTec.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Flask Music Player</h3>
