@@ -144,7 +144,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Alexander Bisland - [@twitter_handle](https://twitter.com/twitter_handle) - BizTecBritain@gmail.com
 
 Project Link: [https://github.com/BizTecBritain/Flask-Music-Player](https://github.com/BizTecBritain/Flask-Music-Player) 
 
