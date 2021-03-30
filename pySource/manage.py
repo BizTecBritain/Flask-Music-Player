@@ -13,7 +13,6 @@ class init_db(Command):
         from app import db
         with app.app_context():
             db.init_db()
-        Server(host='127.0.0.1')
 manager.add_command("init-db", init_db())
 
 def make_shell_context():
