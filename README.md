@@ -58,13 +58,13 @@
 
 ## About The Project
 
-I do a lot of random stuff and this is an example og one of them
+I do a lot of random stuff and this is an example of one of them
 
 
 ### Built With
 
 * Python version: 3.x
-* Flask version:
+* Flask version: 1.1.2 (Tested)
 
 
 
