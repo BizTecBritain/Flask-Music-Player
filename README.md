@@ -89,7 +89,7 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Install requirements
    ```
-   $ pip install -r requirements.txt
+   $ pip install -r pySource/requirements.txt
    ```
 
 
@@ -98,6 +98,7 @@ To get a local copy up and running follow these simple steps.
 
 To use this code simply run
 ```
+$ cd pySource
 $ python manage.py runserver
 ```
 
