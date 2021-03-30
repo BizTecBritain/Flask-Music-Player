@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![GNU License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
 
 
 
@@ -143,12 +143,12 @@ Project Link: [https://github.com/BizTecBritain/Flask-Music-Player](https://gith
 * Thanks to [y4h2](https://github.com/y4h2/Flask-Music-Player) for the basic code
 * Thanks to [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) for the blank README.md file
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
 [contributors-url]: https://github.com/BizTecBritain/Flask-Music-Player/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
 [forks-url]: https://github.com/BizTecBritain/Flask-Music-Player/network/members
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-shield]: https://img.shields.io/github/issues/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
+[issues-url]: https://github.com/BizTecBritain/Flask-Music-Player/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
