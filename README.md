@@ -134,7 +134,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/BizTecBritain/Flask-Music-Player](https://github.com/BizTecBritain/Flask-Music-Player) 
 
 
 
@@ -143,13 +143,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * Thanks to [y4h2](https://github.com/y4h2/Flask-Music-Player) for the basic code
 * Thanks to [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) for the blank README.md file
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
+[contributors-url]: https://github.com/BizTecBritain/Flask-Music-Player/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
+[forks-url]: https://github.com/BizTecBritain/Flask-Music-Player/network/members
+[issues-shield]: https://img.shields.io/github/issues/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
+[issues-url]: https://github.com/BizTecBritain/Flask-Music-Player/issues
+[license-shield]: https://img.shields.io/github/license/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
+[license-url]: https://github.com/BizTecBritain/Flask-Music-Player/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
