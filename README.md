@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple steps.
   * #### Linux:
     ```
     $ python -m venv venv
-    $ . ./venv/bin/activate
+    $ venv/bin/activate
     ```
   * #### Windows:
     ```
