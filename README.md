@@ -1,7 +1,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
-[![GNU License][license-shield]][license-url]
 <!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
 
 
@@ -149,7 +148,5 @@ Project Link: [https://github.com/BizTecBritain/Flask-Music-Player](https://gith
 [forks-url]: https://github.com/BizTecBritain/Flask-Music-Player/network/members
 [issues-shield]: https://img.shields.io/github/issues/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
 [issues-url]: https://github.com/BizTecBritain/Flask-Music-Player/issues
-[license-shield]: https://img.shields.io/github/license/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
-[license-url]: https://github.com/BizTecBritain/Flask-Music-Player/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
