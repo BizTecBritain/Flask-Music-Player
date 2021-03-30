@@ -8,7 +8,10 @@ app = create_app(os.getenv('FLASK_CONFIG') or 'default')
 
 manager = Manager(app)
 
-manager.add_command("init-db", app)
+def init_db():
+    with app.app_context():
+        db.init_db()
+manager.add_command("init-db", init_db())
 
 def make_shell_context():
     return dict(app=app)#, db=db, User=User, Role=Role, Photo=Photo)
