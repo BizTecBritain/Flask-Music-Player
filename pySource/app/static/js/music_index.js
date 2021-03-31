@@ -71,16 +71,6 @@ function draw(arr){
 	}
 }
 
-var types = $("#type li");
-for (var i = 0; i < types.length; i++){
-	types[i].onclick = function(){
-		for(var j = 0; j < types.length; j++){
-			types[j].className = "";
-		}
-		this.className = "selected";
-	}
-}
-
 function load(url){
 	var n = ++count;
 	source && source[source.stop ? "stop": "noteOff"]();
