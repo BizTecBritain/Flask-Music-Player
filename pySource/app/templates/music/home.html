@@ -1,0 +1,16 @@
+<html>
+
+<body>	
+<center>
+	<div>
+    <img src="{{ url_for( 'main.download_file', filename = 'BizTec.png' ) }}" alt="logo" style="width:290px;height:150px;">
+		<h1> BizTec Music Player </h1>
+		<br>
+	</div>
+
+	<button type="button" onclick="window.location.href='{{ url_for( 'main.player' ) }}';">Player</button>
+
+</center>
+</body>
+
+</html>
