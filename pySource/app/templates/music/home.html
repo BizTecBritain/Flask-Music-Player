@@ -1,5 +1,25 @@
 <html>
-  <body>
-    h
-  </body>
+
+<body>	
+
+	<div>
+    <img src="../../../images/BizTec.png" alt="logo">
+		<h1> BizTec Music Player </h1>
+		<br>
+	</div>
+
+
+	<div>
+		<ul id="list">
+			<li title="Download">Download</li>
+      <li title="Play">Play</li>
+		</ul>
+	</div>
+
+<button type="button" onclick="window.location.href='{{ url_for( 'dataTablePage' , table='Y' ) }}';">Display Table Y</button>
+	<script type="text/javascript" src="../static/js/music_index.js"> </script>
+
+
+</body>
+
 </html>
