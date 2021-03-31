@@ -14,8 +14,12 @@ def healthcheck():
 
 
 @main.route('/')
-@main.route('/index', methods=['GET', 'POST'])
-def index():
+@main.route('/home', methods=['GET', 'POST'])
+def home():
+    return render_template('music/home.html', music_list = music_list)
+
+@main.route('/play', methods=['GET', 'POST'])
+def player():
     music_folder = app.config['MUSIC_FOLDER']
     music_list = os.listdir(music_folder)
-    return render_template('music/index.html', music_list = music_list)
+    return render_template('music/play.html', music_list = music_list)
